@@ -17,5 +17,7 @@ Anterior:
  ```
  Posterior:
  
-` <div class="display"> </div> `
+~~~
+<div class="display"> </div>
+~~~
 Publicado no GitHub Pages https://cernandes.github.io/calculator-js/
