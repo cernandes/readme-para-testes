@@ -6,8 +6,9 @@ Ao longo do tempo o projeto sofrerá modificações para correção de falhas, m
 # ![](/img/calculadora.png)
 ## Diário de bordo
 O primeiro código javascript foi implementado de forma simples com uma programação funcional, visando apenas a implementação das funcionalidades básicas para atingir o primeiro propósito.
-Após uma primeira refatoração o projeto passou para uma programação orientada a objetos, estabelecendo as boas práticas de programação. 
-Alteração no HTML com a mudanças nas tags do display.
+Após uma primeira refatoração o projeto passou para uma programação orientada a objetos, estabelecendo as boas práticas de programação.
+
+Alteração no HTML com as mudanças nas tags do display deixando mais simples a manipulação do elemento com apenas uma div.
 
 Anterior: 
  ```
@@ -20,4 +21,5 @@ Anterior:
 ~~~
 <div class="display"> </div>
 ~~~
+
 Publicado no GitHub Pages https://cernandes.github.io/calculator-js/
