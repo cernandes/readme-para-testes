@@ -8,6 +8,7 @@ Ao longo do tempo o projeto sofrerá modificações para correção de falhas, m
 O primeiro código javascript foi implementado de forma simples com uma programação funcional, visando apenas a implementação das funcionalidades básicas para atingir o primeiro propósito.
 Após uma primeira refatoração o projeto passou para uma programação orientada a objetos, estabelecendo as boas práticas de programação. 
 Alteração no HTML com a mudanças nas tags do display.
+
 Anterior: 
  ```
  <form name="form">
