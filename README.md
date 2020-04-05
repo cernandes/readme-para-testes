@@ -9,9 +9,13 @@ O primeiro código javascript foi implementado de forma simples com uma programa
 Após uma primeira refatoração o projeto passou para uma programação orientada a objetos, estabelecendo as boas práticas de programação. 
 Alteração no HTML com a mudanças nas tags do display.
 Anterior: 
-```        <form name="form">
-                <input class="display" name="display" maxlength="9" onfocus="focus">
-            </form> ```
+
+ ```<form name="form">
+      <input class="display" name="display" maxlength="9" onfocus="focus">
+   </form> ```
+   
+   
+   
 Posterior:
 ` <div class="display"> </div> `
 
