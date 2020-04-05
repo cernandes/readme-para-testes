@@ -14,6 +14,7 @@ Antes:
    </form>
  ``` 
 Depois:
+
 ~<div class="display"> </div>~
 
 Eliminação das chamadas de função para os eventos em cada botão, com isso agora os botões tem um link com as funções através de um “querySelector” na classe dos botões, e os eventos são capturados com um “addEventListener”.
