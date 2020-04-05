@@ -33,4 +33,4 @@ Depois:
   ...
 </tr>     
 ~~~
-Publicado no GitHub Pages https://cernandes.github.io/calculator-js/
+Publicado no GitHub Pages https://cernandes.github.io/calculator-js/ 
